@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #FAFF7F;
+    height: 2000px;
+}
+
+.logo {
+    height: auto;
+    width: 40%;
+    position: relative;
+    left: 30%;
+}
+
+.box {
+    position: relative;
+    background-color: #FFD3BA;
+    margin-top: 5%;
+    width: 350px;
+    padding: 20px;
+    height: 300px;
+    border-radius: 20px;
+    font-family: 'Caveat', sans-serif;
+    font-size: 25px;
+    left: 2.5%;
+    overflow: auto;
+
+}

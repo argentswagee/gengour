@@ -1,0 +1,65 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #FAFF7F;
+}
+
+.j1 {
+    font-size: 215%;
+    font-family: "Caveat";
+    position: relative;
+    text-align: center;
+    top: 250px;
+    z-index: 50;
+}
+
+.j1b {
+    position: relative;
+    left: 30%;
+    top: 275px;
+    padding: 5%;
+    width: 150px;
+    border-radius: 20px;
+    font-family: 'Caveat';
+    background-color: #FF9B42;
+    font-size: 150%;
+    border-width: 0px;
+    box-shadow: 1px 1px 20px #FAFF7F;
+    z-index: 50;
+}
+
+.j2 {
+    font-size: 215%;
+    font-family: "Caveat";
+    position: relative;
+    text-align: center;
+    top: 100px;
+    transform: rotate(180deg);
+    z-index: 50;
+}
+
+.j2b {
+    position: relative;
+    left: 30%;
+    top: 75px;
+    padding: 5%;
+    width: 150px;
+    border-radius: 20px;
+    font-family: 'Caveat';
+    background-color: #FF9B42;
+    font-size: 150%;
+    border-width: 0px;
+    box-shadow: 1px 1px 20px #CEFDFF;
+    transform: rotate(180deg);
+    z-index: 50;
+}
+
+.fondj1 {
+    background-color: #CEFDFF;
+    margin-top: 70%;
+    z-index: 1;
+    height: 500px;
+}
